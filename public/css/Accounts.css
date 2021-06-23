@@ -1,0 +1,33 @@
+.content {
+    width: 97%;
+    border: 4px solid black;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.content img {
+    margin-right: 15px;
+    float: left;
+}
+
+.content h3,
+.content p{
+    margin-left: 15px;
+    display: block;
+    margin: 2px 0 0 0;
+    font-size: 50px;
+}
+.content button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+    float: right;
+}
